@@ -1,0 +1,418 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family: 'Lato', sans-serif;
+    width: 700;  
+   
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    width: 400;
+    line-height: 1.8;
+}
+
+.header{
+    background-image: url(../image/cov2.jpg);
+    height: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 300px  0px 0px 124px;
+    text-align: center;
+    margin-bottom: 80px;
+    
+    
+}
+.header h1{
+    color: #00ffff;
+    font-size: 50px;
+    /*
+    background-color: #008CBA;
+    width:500px;
+    margin-left: 500px;
+   */
+    
+    
+}
+.header p{
+    color:whitesmoke;
+    margin-top: 10px;
+    /*
+    background-color:#e7e7e7;
+    margin-left: 459px;
+    width: 621px;
+    color: red;
+    */
+}
+    
+   
+ 
+    
+
+.header a{
+    display: inline-block;
+    padding: 8px 35px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    border: 2px solid#f44336;
+    border-radius: 20px;
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+ .b1{
+    background-color:#00ffff;
+    color:black;
+    margin-right: 2px;
+}
+.b1:hover{
+
+    background-color:#555555;
+    color:#f44336;
+}
+.b2{
+    background-color:#555555;
+    color:white;
+}.b2:hover{
+
+    background-color:#00ffff;
+    color:#f44336;
+}
+
+
+
+/* info section starts here*/
+
+.info{
+
+    background-color: #fff;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.info h1{
+    color: #00ffff;
+   
+    
+}
+.info p{
+    margin-top: 20px;
+    padding-bottom: 50px;
+}
+
+/* info section ends here*/
+
+
+/* sec3 section starts here*/
+
+
+.sec3{
+    padding: 0px,50px,100px, 0px;
+    background-color: #fff;
+    
+    overflow: hidden;
+  
+   
+}
+
+.s3left{
+  float: left;
+  width: 50%;
+  margin-left: 50px;
+  padding-top: 50px;
+}
+.s3left h1{
+    padding-bottom: 20px;
+    text-align: center;
+   
+  
+}
+.s3left p{
+    padding-bottom: 20px;
+}
+.s3left ul {
+    
+    list-style: none;
+    line-height: 1.8;
+    font-family: 'Poppins', sans-serif;
+    
+
+}
+
+.s3left ul li{
+    
+   font-size: 15px;
+   font-weight: 50px;
+    
+
+}
+
+
+
+ ul li i {
+  color: #f44336;
+  padding-right: 5px;
+
+ }
+
+ .s3left a{
+
+    display: inline-block;
+    background-color:#00ffff;;
+    padding: 8px 35px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none; 
+    border-radius: 20px;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px 0px black;
+    font-family: 'Poppins', sans-serif;
+   
+}
+
+
+.s3left a:hover{
+    background-color:#4CAF50;
+    color:white; 
+}
+
+.s3right{
+    float: right;
+    width: 50%;
+    margin-right: 50px;
+    padding-bottom: 250px;
+}
+
+/* sec3 bends here */
+
+
+
+
+
+/*  sec4 starts here */
+
+.sec4{
+    background-color: #fff;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+  
+}
+
+.s4Top{
+    overflow: hidden;
+}
+
+.s4Tbox1{
+    width: 28.6%;
+    float: left;
+    background-color: #f4f4f4;
+    margin-right: 3px;
+    margin-bottom: 20px;
+    margin-left: 19px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+.s4Tbox1 h1{
+
+
+}
+
+.s4Tbox1 i{
+    font-size: 39px;
+    color: #f44336;
+    background-color: #eeeee4;
+    border-radius: 50px;
+    margin-top: 20px;
+    padding: 14px;
+}
+.s4Tbox1 a{
+
+        display: inline-block;
+        background-color:#00ffff;
+        padding: 8px 35px;
+        font-size: 16px;
+        text-align: center;
+        text-decoration: none; 
+        border-radius: 4px;
+        margin-top: 20px;
+        box-shadow: 2px 2px 5px 0px gray;
+        font-family: 'Poppins', sans-serif;
+        margin-bottom: 20px;
+        box-shadow: 2px 2px 5px opx grey;
+       
+        
+  
+    
+}
+
+.s4Tbox1 a:hover{
+    background-color:#f44336;
+    color: white;
+}
+
+
+/* ends sec4 here */
+
+/* s4Bnner starts */
+
+.s5Bnner{
+    
+    background-image: url(../image/cov2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    margin-top: 500px;
+    margin-bottom: 80px;
+    text-align: center;
+
+}
+
+.s5Bnner h1 {
+    color: white;
+    font-family: 'lato', sans-serif;
+    padding-top: 100px;   
+    
+   
+}
+
+
+.s5Bnner a{
+    display: inline-block;
+    background-color:#00ffff;;
+    padding: 8px 35px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none; 
+    border-radius: 20px;
+    margin-top: 20px;
+    box-shadow: 2px 2px 5px 0px black;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* s4Bnner ends here */
+
+
+
+/* s6Team starts here */
+
+.s6Team{
+    background-color: #fff;
+    text-align: center;
+   
+  
+}
+
+.s6TBox{
+
+    overflow: hidden;
+  
+    padding: 174px;
+        padding-top: 174px;
+    margin-left: 69px;
+    margin-right: 70px;
+    padding-top: 50px;
+
+
+}
+
+  
+.s6TBox1{
+    width: 33.3%;
+    float: left;
+
+ 
+    
+}  
+.s6TBox1 img{
+  
+    width: 300px;
+    border: 5px solid #00ffff; 
+
+
+}
+
+
+.s6TBox1 h1{
+  
+    
+  
+    
+}
+.s6TBox1 p{
+      
+       
+      
+        
+    }
+.s6TBox1 a{
+    
+
+    text-decoration: none;
+    display: inline-block;
+    padding: 6px 35px;
+    font-size: 16px;
+  
+    border: 3px solid #00ffff ;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 30px;
+    text-align: center;
+  
+
+
+
+}
+ 
+.s6TBox1 a:hover{
+
+    
+    border: 3px solid #00ffff
+}
+
+
+/* s6Team ends here */
+
+
+
+/*s7Clint starts here*/
+
+.sec7{
+    text-align: center;
+    margin-top: -113px;
+}
+
+.sec7 h1{
+   
+    padding-bottom: 20px;
+
+}
+.p{
+    
+}
+
+
+/*copyright section strats*/
+
+.copy{
+
+    text-align: center;
+    background-color:black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+
+/*copyright section ends*/
+
+
+
+
