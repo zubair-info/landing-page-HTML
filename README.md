@@ -1,2 +1,2 @@
 # landing-page-HTML
-https://zubair1050.github.io/landing-page-HTML/
+https://zubair-uap.github.io/landing-page-HTML/
